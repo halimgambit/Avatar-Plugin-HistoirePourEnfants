@@ -1,0 +1,22 @@
+{
+	"modules": { 
+		"HistoirePourEnfants": {
+			"version": "1.0",
+			"name": "histoires",
+			"rules": {
+				"crapichouille": ["crapichouille"],
+				"madameMidas": ["madame mida"],
+				"dromaderio": ["dromaderio"],
+				"arnaud": ["history * arnaud","the story of arnaud"],
+				"chaperonRouge": ["little red riding hood"],
+				"petitPoucet": ["small thumb","little thumb"],
+				"belleEtBete": ["the beauty and the beast"],
+				"cendrillon": ["cinderella"],
+				"leLoup": ["the wolf"],
+				"Leberger": ["the shepherd"],
+				"stopHistoire": ["stop * story"]
+			}
+		}
+	}
+}
+			
